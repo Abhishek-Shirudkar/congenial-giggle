@@ -1,0 +1,615 @@
+
+thing added to commit but untracked files present (use "git add" to track)
+
+cdac@IOE-CDAC-194 MINGW64 ~/metrepo1 (master)
+$ git status
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'Start Menu/': Permission denied
+warning: could not open directory 'Templates/': Permission denied
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+          ../.Icecream Screen Recorder/
+	          ../.VirtualBox/
+		          ../.angular-config.json
+			          ../.bash_history
+				          ../.config/
+					          ../.dbshell
+						          ../.eclipse/
+							          ../.gitconfig
+								          ../.m2/
+									          ../.mongorc.js
+										          ../.node_repl_history
+											          ../.p2/
+												          ../.viminfo
+													          ../.vscode/
+														          ../.xmlcopyeditor
+															          ../AppData/
+																          ../Contacts/
+																	          ../Container.sql
+																		          ../Desktop/
+																			          ../Documents/
+																				          ../Downloads/
+																					          ../Favorites/
+																						          ../Links/
+																							          ../Music/
+																								          ../NTUSER.DAT
+																									          ../NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+																										          ../NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+																											          ../NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+																												          ../NUM_100.sql
+																													          ../Oracle/
+																														          ../Pictures/
+																															          ../Saved Games/
+																																          ../Searches/
+																																	          ../V10.sql
+																																		          ../Videos/
+																																			          ../abc.sql
+																																				          ../abc.txt
+																																					          ../callingfun.sql
+																																						          ../congenial-giggle/
+																																							          ../cusrsor1.sql
+																																								          ../degree.sql
+																																									          ../eclipse/
+																																										          ../ex11.sql
+																																											          ../ex12.sql
+																																												          ../ftoc.sql
+																																													          ../funstored.sql
+																																														          ../hello.cs
+																																															          ../inout.sql
+																																																          ../inout1.sql
+																																																	          ../loo2.sql
+																																																		          ../loop1.sql
+																																																			          ../metrepo/
+																																																				          ./
+																																																					          ../myp/
+																																																						          ../myrepo/
+																																																							          ../ntuser.dat.LOG1
+																																																								          ../ntuser.dat.LOG2
+																																																									          ../ntuser.ini
+																																																										          ../outpara1.sql
+																																																											          ../outpara2.sql
+																																																												          ../outparam2.sql
+																																																													          ../p1.sql
+																																																														          ../parameter.sql
+																																																															          ../parameter1.sql
+																																																																          ../practice.sql
+																																																																	          ../practice1.sql
+																																																																		          ../practice2.sql
+																																																																			          ../practice3.sql
+																																																																				          ../practiced.sql
+																																																																					          ../practiced2.sql
+																																																																						          ../simp_intr.sql
+																																																																							          ../stoabc.sql
+																																																																								          ../store_function.sql
+																																																																									          ../storeprocedure.sql
+																																																																										          ../storfunction.sql
+																																																																											          ../storfunction1.sql
+																																																																												          ../storfunction2.sql
+																																																																													          ../storfunction3.sql
+																																																																														          ../storfunctiond2.sql
+																																																																															          ../storfunctiond3.sql
+																																																																																          ../storpro1.sql
+																																																																																	          ../storpro2.sql
+																																																																																		          ../test/
+																																																																																			          ../ttocd.sql
+																																																																																				          ../ttof.sql
+																																																																																					          ../v1.sql
+																																																																																						          ../v11.sql
+																																																																																							          ../v12.sql
+																																																																																								          ../v13.sql
+																																																																																									          ../v14.sql
+																																																																																										          ../v15.sql
+																																																																																											          ../v16.sql
+																																																																																												          ../v17.sql
+																																																																																													          ../v18.sql
+																																																																																														          ../v19.sql
+																																																																																															          ../v2.sql
+																																																																																																          ../v20.sql
+																																																																																																	          ../v4.sql
+																																																																																																		          ../v6.sql
+																																																																																																			          ../v8.sql
+																																																																																																				          ../v9.sql
+																																																																																																					          ../value
+																																																																																																						          ../with
+																																																																																																							          ../workspace/
+
+																																																																																																								  nothing added to commit but untracked files present (use "git add" to track)
+
+																																																																																																								  cdac@IOE-CDAC-194 MINGW64 ~/metrepo1 (master)
+																																																																																																								  $ git add test.txt
+																																																																																																								  warning: LF will be replaced by CRLF in metrepo1/test.txt.
+																																																																																																								  The file will have its original line endings in your working directory
+
+																																																																																																								  cdac@IOE-CDAC-194 MINGW64 ~/metrepo1 (master)
+																																																																																																								  $ git status
+																																																																																																								  warning: could not open directory 'Application Data/': Permission denied
+																																																																																																								  warning: could not open directory 'Cookies/': Permission denied
+																																																																																																								  warning: could not open directory 'Local Settings/': Permission denied
+																																																																																																								  warning: could not open directory 'My Documents/': Permission denied
+																																																																																																								  warning: could not open directory 'NetHood/': Permission denied
+																																																																																																								  warning: could not open directory 'PrintHood/': Permission denied
+																																																																																																								  warning: could not open directory 'Recent/': Permission denied
+																																																																																																								  warning: could not open directory 'SendTo/': Permission denied
+																																																																																																								  warning: could not open directory 'Start Menu/': Permission denied
+																																																																																																								  warning: could not open directory 'Templates/': Permission denied
+																																																																																																								  On branch master
+
+																																																																																																								  No commits yet
+
+																																																																																																								  Changes to be committed:
+																																																																																																								    (use "git rm --cached <file>..." to unstage)
+																																																																																																								            new file:   test.txt
+
+																																																																																																									    Untracked files:
+																																																																																																									      (use "git add <file>..." to include in what will be committed)
+																																																																																																									              ../.Icecream Screen Recorder/
+																																																																																																										              ../.VirtualBox/
+																																																																																																											              ../.angular-config.json
+																																																																																																												              ../.bash_history
+																																																																																																													              ../.config/
+																																																																																																														              ../.dbshell
+																																																																																																															              ../.eclipse/
+																																																																																																																              ../.gitconfig
+																																																																																																																	              ../.m2/
+																																																																																																																		              ../.mongorc.js
+																																																																																																																			              ../.node_repl_history
+																																																																																																																				              ../.p2/
+																																																																																																																					              ../.viminfo
+																																																																																																																						              ../.vscode/
+																																																																																																																							              ../.xmlcopyeditor
+																																																																																																																								              ../AppData/
+																																																																																																																									              ../Contacts/
+																																																																																																																										              ../Container.sql
+																																																																																																																											              ../Desktop/
+																																																																																																																												              ../Documents/
+																																																																																																																													              ../Downloads/
+																																																																																																																														              ../Favorites/
+																																																																																																																															              ../Links/
+																																																																																																																																              ../Music/
+																																																																																																																																	              ../NTUSER.DAT
+																																																																																																																																		              ../NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+																																																																																																																																			              ../NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+																																																																																																																																				              ../NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+																																																																																																																																					              ../NUM_100.sql
+																																																																																																																																						              ../Oracle/
+																																																																																																																																							              ../Pictures/
+																																																																																																																																								              ../Saved Games/
+																																																																																																																																									              ../Searches/
+																																																																																																																																										              ../V10.sql
+																																																																																																																																											              ../Videos/
+																																																																																																																																												              ../abc.sql
+																																																																																																																																													              ../abc.txt
+																																																																																																																																														              ../callingfun.sql
+																																																																																																																																															              ../congenial-giggle/
+																																																																																																																																																              ../cusrsor1.sql
+																																																																																																																																																	              ../degree.sql
+																																																																																																																																																		              ../eclipse/
+																																																																																																																																																			              ../ex11.sql
+																																																																																																																																																				              ../ex12.sql
+																																																																																																																																																					              ../ftoc.sql
+																																																																																																																																																						              ../funstored.sql
+																																																																																																																																																							              ../hello.cs
+																																																																																																																																																								              ../inout.sql
+																																																																																																																																																									              ../inout1.sql
+																																																																																																																																																										              ../loo2.sql
+																																																																																																																																																											              ../loop1.sql
+																																																																																																																																																												              ../metrepo/
+																																																																																																																																																													              ../myp/
+																																																																																																																																																														              ../myrepo/
+																																																																																																																																																															              ../ntuser.dat.LOG1
+																																																																																																																																																																              ../ntuser.dat.LOG2
+																																																																																																																																																																	              ../ntuser.ini
+																																																																																																																																																																		              ../outpara1.sql
+																																																																																																																																																																			              ../outpara2.sql
+																																																																																																																																																																				              ../outparam2.sql
+
+																																																																																																																																																																					      cdac@IOE-CDAC-194 MINGW64 ~/test (master)
+
+																																																																																																																																																																					      cdac@IOE-CDAC-194 MINGW64 ~/test (master)
+																																																																																																																																																																					      $ rm -rvf .git/
+
+																																																																																																																																																																					      cdac@IOE-CDAC-194 MINGW64 ~/test (master)
+																																																																																																																																																																					      $ ls -a
+																																																																																																																																																																					      ./  ../  abc
+
+																																																																																																																																																																					      cdac@IOE-CDAC-194 MINGW64 ~/test (master)
+																																																																																																																																																																					      $ git init
+																																																																																																																																																																					      Initialized empty Git repository in C:/Users/cdac/test/.git/
+
+																																																																																																																																																																					      cdac@IOE-CDAC-194 MINGW64 ~/test (master)
+																																																																																																																																																																					      $ ls -a
+																																																																																																																																																																					      ./  ../  .git/  abc
+
+																																																																																																																																																																					      cdac@IOE-CDAC-194 MINGW64 ~/test (master)
+																																																																																																																																																																					      $ git status
+
+																																																																																																																																																																					      On branch master
+
+																																																																																																																																																																					      No commits yet
+
+																																																																																																																																																																					      Untracked files:
+																																																																																																																																																																					        (use "git add <file>..." to include in what will be committed)
+																																																																																																																																																																						        abc
+
+																																																																																																																																																																							nothing added to commit but untracked files present (use "git add" to track)
+
+																																																																																																																																																																							cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																							$ ls -a
+																																																																																																																																																																							./  ../  .git/  README.md  package.json  server.js  ui/
+
+																																																																																																																																																																							cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																							$ pwd
+																																																																																																																																																																							/c/Users/cdac/imad-app
+
+																																																																																																																																																																							cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																							$ ls -a
+																																																																																																																																																																							./  ../  README.md  package.json  server.js  ui/
+
+																																																																																																																																																																							cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																							$ git init
+																																																																																																																																																																							Initialized empty Git repository in C:/Users/cdac/imad-app/.git/
+
+																																																																																																																																																																							cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																							$ ls -a
+																																																																																																																																																																							./  ../  .git/  README.md  package.json  server.js  ui/
+
+																																																																																																																																																																							cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																							$ git status
+																																																																																																																																																																							On branch master
+
+																																																																																																																																																																							No commits yet
+
+																																																																																																																																																																							Untracked files:
+																																																																																																																																																																							  (use "git add <file>..." to include in what will be committed)
+																																																																																																																																																																							          README.md
+																																																																																																																																																																								          package.json
+																																																																																																																																																																									          server.js
+																																																																																																																																																																										          ui/
+
+																																																																																																																																																																											  nothing added to commit but untracked files present (use "git add" to track)
+
+																																																																																																																																																																											  cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																											  $ git commit -a
+																																																																																																																																																																											  On branch master
+
+																																																																																																																																																																											  Initial commit
+
+																																																																																																																																																																											  Untracked files:
+																																																																																																																																																																											    (use "git add <file>..." to include in what will be committed)
+																																																																																																																																																																											            README.md
+																																																																																																																																																																												            package.json
+																																																																																																																																																																													            server.js
+																																																																																																																																																																														            ui/
+
+																																																																																																																																																																															    nothing added to commit but untracked files present (use "git add" to track)
+
+																																																																																																																																																																															    cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																															    $ git add -a
+																																																																																																																																																																															    error: unknown switch `a'
+																																																																																																																																																																															    usage: git add [<options>] [--] <pathspec>...
+
+																																																																																																																																																																															        -n, --dry-run         dry run
+																																																																																																																																																																																    -v, --verbose         be verbose
+
+																																																																																																																																																																																        -i, --interactive     interactive picking
+																																																																																																																																																																																	    -p, --patch           select hunks interactively
+																																																																																																																																																																																	        -e, --edit            edit current diff and apply
+																																																																																																																																																																																		    -f, --force           allow adding otherwise ignored files
+																																																																																																																																																																																		        -u, --update          update tracked files
+																																																																																																																																																																																			    --renormalize         renormalize EOL of tracked files (implies -u)
+																																																																																																																																																																																			        -N, --intent-to-add   record only the fact that the path will be added later
+																																																																																																																																																																																				    -A, --all             add changes from all tracked and untracked files
+																																																																																																																																																																																				        --ignore-removal      ignore paths removed in the working tree (same as --no-all)
+																																																																																																																																																																																					    --refresh             don't add, only refresh the index
+																																																																																																																																																																																					        --ignore-errors       just skip files which cannot be added because of errors
+																																																																																																																																																																																						    --ignore-missing      check if - even missing - files are ignored in dry run
+																																																																																																																																																																																						        --chmod (+|-)x        override the executable bit of the listed files
+																																																																																																																																																																																							    --pathspec-from-file <file>
+																																																																																																																																																																																							                              read pathspec from file
+																																																																																																																																																																																										          --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
+
+
+																																																																																																																																																																																											  cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																																											  $ git add --all
+
+																																																																																																																																																																																											  cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																																											  $ git status
+																																																																																																																																																																																											  On branch master
+
+																																																																																																																																																																																											  No commits yet
+
+																																																																																																																																																																																											  Changes to be committed:
+																																																																																																																																																																																											    (use "git rm --cached <file>..." to unstage)
+																																																																																																																																																																																											            new file:   README.md
+																																																																																																																																																																																												            new file:   package.json
+																																																																																																																																																																																													            new file:   server.js
+																																																																																																																																																																																														            new file:   ui/index.html
+																																																																																																																																																																																															            new file:   ui/madi.png
+																																																																																																																																																																																																            new file:   ui/main.js
+																																																																																																																																																																																																	            new file:   ui/style.css
+
+
+																																																																																																																																																																																																		    cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																																																		    $ git commit -m "first commit"
+																																																																																																																																																																																																		    [master (root-commit) 83bc3bc] first commit
+																																																																																																																																																																																																		     7 files changed, 197 insertions(+)
+																																																																																																																																																																																																		      create mode 100644 README.md
+																																																																																																																																																																																																		       create mode 100644 package.json
+																																																																																																																																																																																																		        create mode 100644 server.js
+																																																																																																																																																																																																			 create mode 100644 ui/index.html
+																																																																																																																																																																																																			  create mode 100644 ui/madi.png
+																																																																																																																																																																																																			   create mode 100644 ui/main.js
+																																																																																																																																																																																																			    create mode 100644 ui/style.css
+
+																																																																																																																																																																																																			    cdac@IOE-CDAC-194 MINGW64 ~/imad-app (master)
+																																																																																																																																																																																																			    $ git branch -M main
+
+																																																																																																																																																																																																			    cdac@IOE-CDAC-194 MINGW64 ~/imad-app (main)
+																																																																																																																																																																																																			    $ git remote add origin https://github.com/Abhishek-Shirudkar/imad-app.git
+
+																																																																																																																																																																																																			    cdac@IOE-CDAC-194 MINGW64 ~/imad-app (main)
+																																																																																																																																																																																																			    $ git push -u origin main
+																																																																																																																																																																																																			    Enumerating objects: 10, done.
+																																																																																																																																																																																																			    Counting objects: 100% (10/10), done.
+																																																																																																																																																																																																			    Delta compression using up to 4 threads
+																																																																																																																																																																																																			    Compressing objects: 100% (8/8), done.
+																																																																																																																																																																																																			    Writing objects: 100% (10/10), 15.71 KiB | 7.86 MiB/s, done.
+																																																																																																																																																																																																			    Total 10 (delta 0), reused 0 (delta 0), pack-reused 0
+																																																																																																																																																																																																			    To https://github.com/Abhishek-Shirudkar/imad-app.git
+																																																																																																																																																																																																			     * [new branch]      main -> main
+																																																																																																																																																																																																			     Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/imad-app (main)
+																																																																																																																																																																																																			     $ cd ..
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~ (master)
+																																																																																																																																																																																																			     $ pwd
+																																																																																																																																																																																																			     /c/Users/cdac
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~ (master)
+																																																																																																																																																																																																			     $ mkdir clone
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~ (master)
+																																																																																																																																																																																																			     $ cd clone
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ git init
+																																																																																																																																																																																																			     Initialized empty Git repository in C:/Users/cdac/clone/.git/
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ ls
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ ls -al
+																																																																																																																																																																																																			     total 36
+																																																																																																																																																																																																			     drwxr-xr-x 1 cdac 197121 0 Dec 17 15:21 ./
+																																																																																																																																																																																																			     drwxr-xr-x 1 cdac 197121 0 Dec 17 15:21 ../
+																																																																																																																																																																																																			     drwxr-xr-x 1 cdac 197121 0 Dec 17 15:21 .git/
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ rm -rvf .git
+																																																																																																																																																																																																			     removed '.git/config'
+																																																																																																																																																																																																			     removed '.git/description'
+																																																																																																																																																																																																			     removed '.git/HEAD'
+																																																																																																																																																																																																			     removed '.git/hooks/applypatch-msg.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/commit-msg.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/fsmonitor-watchman.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/post-update.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/pre-applypatch.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/pre-commit.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/pre-merge-commit.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/pre-push.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/pre-rebase.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/pre-receive.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/prepare-commit-msg.sample'
+																																																																																																																																																																																																			     removed '.git/hooks/update.sample'
+																																																																																																																																																																																																			     removed directory '.git/hooks'
+																																																																																																																																																																																																			     removed '.git/info/exclude'
+																																																																																																																																																																																																			     removed directory '.git/info'
+																																																																																																																																																																																																			     removed directory '.git/objects/info'
+																																																																																																																																																																																																			     removed directory '.git/objects/pack'
+																																																																																																																																																																																																			     removed directory '.git/objects'
+																																																																																																																																																																																																			     removed directory '.git/refs/heads'
+																																																																																																																																																																																																			     removed directory '.git/refs/tags'
+																																																																																																																																																																																																			     removed directory '.git/refs'
+																																																																																																																																																																																																			     removed directory '.git'
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ pwd
+																																																																																																																																																																																																			     /c/Users/cdac/clone
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ ls -al
+																																																																																																																																																																																																			     total 32
+																																																																																																																																																																																																			     drwxr-xr-x 1 cdac 197121 0 Dec 17 15:26 ./
+																																																																																																																																																																																																			     drwxr-xr-x 1 cdac 197121 0 Dec 17 15:21 ../
+																																																																																																																																																																																																			     drwxr-xr-x 1 cdac 197121 0 Dec 17 15:26 __MACOSX/
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ git add --all
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Application Data/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/ElevatedDiagnostics/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/History/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Microsoft/CardSpace/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Temp/HOD9D90.tmp.dir/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Temp/MFX34AF.tmp.dir/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Temp/msdtadmin/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Temp/SHR1600.tmp.dir/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Temp/UPD70BC.tmp.dir/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Temp/WRP5CDF.tmp.dir/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Temp/WXD5589.tmp.dir/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Temp/YMR56F6.tmp.dir/': Permission denied
+																																																																																																																																																																																																			     warning: could not open directory 'AppData/Local/Temporary Internet Files/': Permission denied
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ git init
+																																																																																																																																																																																																			     Initialized empty Git repository in C:/Users/cdac/clone/.git/
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ git add --all
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ git commit -m
+																																																																																																																																																																																																			     error: switch `m' requires a value
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $
+
+																																																																																																																																																																																																			     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																			     $ git commit -m "Project Saved"
+																																																																																																																																																																																																			     [master (root-commit) 2092ad4] Project Saved
+																																																																																																																																																																																																			      143 files changed, 0 insertions(+), 0 deletions(-)
+																																																																																																																																																																																																			       create mode 100644 __MACOSX/._Login_v9
+																																																																																																																																																																																																			        create mode 100644 __MACOSX/Login_v9/._css
+																																																																																																																																																																																																				 create mode 100644 __MACOSX/Login_v9/._fonts
+																																																																																																																																																																																																				  create mode 100644 __MACOSX/Login_v9/._images
+																																																																																																																																																																																																				   create mode 100644 __MACOSX/Login_v9/._index.html
+																																																																																																																																																																																																				    create mode 100644 __MACOSX/Login_v9/._js
+																																																																																																																																																																																																				     create mode 100644 __MACOSX/Login_v9/._vendor
+																																																																																																																																																																																																				      create mode 100644 __MACOSX/Login_v9/css/._main.css
+																																																																																																																																																																																																				       create mode 100644 __MACOSX/Login_v9/css/._util.css
+																																																																																																																																																																																																				        create mode 100644 __MACOSX/Login_v9/fonts/._JosefinSans
+																																																																																																																																																																																																					 create mode 100644 __MACOSX/Login_v9/fonts/._font-awesome-4.7.0
+																																																																																																																																																																																																					  create mode 100644 __MACOSX/Login_v9/fonts/._iconic
+																																																																																																																																																																																																					   create mode 100644 __MACOSX/Login_v9/fonts/._source-sans-pro
+																																																																																																																																																																																																					    create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._JosefinSans-Bold.ttf
+																																																																																																																																																																																																					     create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._JosefinSans-BoldItalic.ttf
+																																																																																																																																																																																																					      create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._JosefinSans-Italic.ttf
+																																																																																																																																																																																																					       create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._JosefinSans-Light.ttf
+																																																																																																																																																																																																					        create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._JosefinSans-LightItalic.ttf
+																																																																																																																																																																																																						 create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._JosefinSans-Regular.ttf
+																																																																																																																																																																																																						  create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._JosefinSans-SemiBold.ttf
+																																																																																																																																																																																																						   create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._JosefinSans-SemiBoldItalic.ttf
+																																																																																																																																																																																																						    create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._JosefinSans-Thin.ttf
+																																																																																																																																																																																																						     create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._JosefinSans-ThinItalic.ttf
+																																																																																																																																																																																																						      create mode 100644 __MACOSX/Login_v9/fonts/JosefinSans/._OFL.txt
+																																																																																																																																																																																																						       create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/._HELP-US-OUT.txt
+																																																																																																																																																																																																						        create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/._css
+																																																																																																																																																																																																							 create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/._fonts
+																																																																																																																																																																																																							  create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/._less
+																																																																																																																																																																																																							   create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/._scss
+																																																																																																																																																																																																							    create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/css/._font-awesome.css
+																																																																																																																																																																																																							     create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/css/._font-awesome.min.css
+																																																																																																																																																																																																							      create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/fonts/._FontAwesome.otf
+																																																																																																																																																																																																							       create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.eot
+																																																																																																																																																																																																							        create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.svg
+																																																																																																																																																																																																								 create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.ttf
+																																																																																																																																																																																																								  create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.woff
+																																																																																																																																																																																																								   create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.woff2
+																																																																																																																																																																																																								    create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._animated.less
+																																																																																																																																																																																																								     create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._bordered-pulled.less
+																																																																																																																																																																																																								      create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._core.less
+																																																																																																																																																																																																								       create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._fixed-width.less
+																																																																																																																																																																																																								        create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._font-awesome.less
+																																																																																																																																																																																																									 create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._icons.less
+																																																																																																																																																																																																									  create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._larger.less
+																																																																																																																																																																																																									   create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._list.less
+																																																																																																																																																																																																									    create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._mixins.less
+																																																																																																																																																																																																									     create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._path.less
+																																																																																																																																																																																																									      create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._rotated-flipped.less
+																																																																																																																																																																																																									       create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._screen-reader.less
+																																																																																																																																																																																																									        create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._stacked.less
+																																																																																																																																																																																																										 create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/less/._variables.less
+																																																																																																																																																																																																										  create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__animated.scss
+																																																																																																																																																																																																										   create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__bordered-pulled.scss
+																																																																																																																																																																																																										    create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__core.scss
+																																																																																																																																																																																																										     create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__fixed-width.scss
+																																																																																																																																																																																																										      create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__icons.scss
+																																																																																																																																																																																																										       create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__larger.scss
+																																																																																																																																																																																																										        create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__list.scss
+																																																																																																																																																																																																											 create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__mixins.scss
+																																																																																																																																																																																																											  create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__path.scss
+																																																																																																																																																																																																											   create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__rotated-flipped.scss
+																																																																																																																																																																																																											    create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__screen-reader.scss
+																																																																																																																																																																																																											     create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__stacked.scss
+																																																																																																																																																																																																											      create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/.__variables.scss
+																																																																																																																																																																																																											       create mode 100644 __MACOSX/Login_v9/fonts/font-awesome-4.7.0/scss/._font-awesome.scss
+																																																																																																																																																																																																											        create mode 100644 __MACOSX/Login_v9/fonts/iconic/._css
+																																																																																																																																																																																																												 create mode 100644 __MACOSX/Login_v9/fonts/iconic/._fonts
+																																																																																																																																																																																																												  create mode 100644 __MACOSX/Login_v9/fonts/iconic/css/._material-design-iconic-font.css
+																																																																																																																																																																																																												   create mode 100644 __MACOSX/Login_v9/fonts/iconic/css/._material-design-iconic-font.min.css
+																																																																																																																																																																																																												    create mode 100644 __MACOSX/Login_v9/fonts/iconic/fonts/._Material-Design-Iconic-Font.eot
+																																																																																																																																																																																																												     create mode 100644 __MACOSX/Login_v9/fonts/iconic/fonts/._Material-Design-Iconic-Font.svg
+																																																																																																																																																																																																												      create mode 100644 __MACOSX/Login_v9/fonts/iconic/fonts/._Material-Design-Iconic-Font.ttf
+																																																																																																																																																																																																												       create mode 100644 __MACOSX/Login_v9/fonts/iconic/fonts/._Material-Design-Iconic-Font.woff
+																																																																																																																																																																																																												        create mode 100644 __MACOSX/Login_v9/fonts/iconic/fonts/._Material-Design-Iconic-Font.woff2
+																																																																																																																																																																																																													 create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._OFL.txt
+																																																																																																																																																																																																													  create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-Black.ttf
+																																																																																																																																																																																																													   create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-BlackItalic.ttf
+																																																																																																																																																																																																													    create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-Bold.ttf
+																																																																																																																																																																																																													     create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-BoldItalic.ttf
+																																																																																																																																																																																																													      create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-ExtraLight.ttf
+																																																																																																																																																																																																													       create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-ExtraLightItalic.ttf
+																																																																																																																																																																																																													        create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-Italic.ttf
+																																																																																																																																																																																																														 create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-Light.ttf
+																																																																																																																																																																																																														  create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-LightItalic.ttf
+																																																																																																																																																																																																														   create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-Regular.ttf
+																																																																																																																																																																																																														    create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-SemiBold.ttf
+																																																																																																																																																																																																														     create mode 100644 __MACOSX/Login_v9/fonts/source-sans-pro/._SourceSansPro-SemiBoldItalic.ttf
+																																																																																																																																																																																																														      create mode 100644 __MACOSX/Login_v9/images/._bg-01.jpg
+																																																																																																																																																																																																														       create mode 100644 __MACOSX/Login_v9/images/._icons
+																																																																																																																																																																																																														        create mode 100644 __MACOSX/Login_v9/images/icons/._favicon.ico
+																																																																																																																																																																																																															 create mode 100644 __MACOSX/Login_v9/images/icons/._icon-google.png
+																																																																																																																																																																																																															  create mode 100644 __MACOSX/Login_v9/images/icons/._map-marker.png
+																																																																																																																																																																																																															   create mode 100644 __MACOSX/Login_v9/js/._main.js
+																																																																																																																																																																																																															    create mode 100644 __MACOSX/Login_v9/js/._map-custom.js
+																																																																																																																																																																																																															     create mode 100644 __MACOSX/Login_v9/vendor/._animate
+																																																																																																																																																																																																															      create mode 100644 __MACOSX/Login_v9/vendor/._animsition
+																																																																																																																																																																																																															       create mode 100644 __MACOSX/Login_v9/vendor/._bootstrap
+																																																																																																																																																																																																															        create mode 100644 __MACOSX/Login_v9/vendor/._countdowntime
+																																																																																																																																																																																																																 create mode 100644 __MACOSX/Login_v9/vendor/._css-hamburgers
+																																																																																																																																																																																																																  create mode 100644 __MACOSX/Login_v9/vendor/._daterangepicker
+																																																																																																																																																																																																																   create mode 100644 __MACOSX/Login_v9/vendor/._jquery
+																																																																																																																																																																																																																    create mode 100644 __MACOSX/Login_v9/vendor/._perfect-scrollbar
+																																																																																																																																																																																																																     create mode 100644 __MACOSX/Login_v9/vendor/._select2
+																																																																																																																																																																																																																      create mode 100644 __MACOSX/Login_v9/vendor/animate/._animate.css
+																																																																																																																																																																																																																       create mode 100644 __MACOSX/Login_v9/vendor/animsition/._css
+																																																																																																																																																																																																																        create mode 100644 __MACOSX/Login_v9/vendor/animsition/._js
+																																																																																																																																																																																																																	 create mode 100644 __MACOSX/Login_v9/vendor/animsition/css/._animsition.css
+																																																																																																																																																																																																																	  create mode 100644 __MACOSX/Login_v9/vendor/animsition/css/._animsition.min.css
+																																																																																																																																																																																																																	   create mode 100644 __MACOSX/Login_v9/vendor/animsition/js/._animsition.js
+																																																																																																																																																																																																																	    create mode 100644 __MACOSX/Login_v9/vendor/animsition/js/._animsition.min.js
+																																																																																																																																																																																																																	     create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/._css
+																																																																																																																																																																																																																	      create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/._js
+																																																																																																																																																																																																																	       create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap-grid.css
+																																																																																																																																																																																																																	        create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap-grid.css.map
+																																																																																																																																																																																																																		 create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap-grid.min.css
+																																																																																																																																																																																																																		  create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap-grid.min.css.map
+																																																																																																																																																																																																																		   create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap-reboot.css
+																																																																																																																																																																																																																		    create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap-reboot.css.map
+																																																																																																																																																																																																																		     create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap-reboot.min.css
+																																																																																																																																																																																																																		      create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap-reboot.min.css.map
+																																																																																																																																																																																																																		       create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap.css
+																																																																																																																																																																																																																		        create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap.css.map
+																																																																																																																																																																																																																			 create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap.min.css
+																																																																																																																																																																																																																			  create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/css/._bootstrap.min.css.map
+																																																																																																																																																																																																																			   create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/js/._bootstrap.js
+																																																																																																																																																																																																																			    create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/js/._bootstrap.min.js
+																																																																																																																																																																																																																			     create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/js/._popper.js
+																																																																																																																																																																																																																			      create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/js/._popper.min.js
+																																																																																																																																																																																																																			       create mode 100644 __MACOSX/Login_v9/vendor/bootstrap/js/._tooltip.js
+																																																																																																																																																																																																																			        create mode 100644 __MACOSX/Login_v9/vendor/countdowntime/._countdowntime.js
+																																																																																																																																																																																																																				 create mode 100644 __MACOSX/Login_v9/vendor/css-hamburgers/._hamburgers.css
+																																																																																																																																																																																																																				  create mode 100644 __MACOSX/Login_v9/vendor/css-hamburgers/._hamburgers.min.css
+																																																																																																																																																																																																																				   create mode 100644 __MACOSX/Login_v9/vendor/daterangepicker/._daterangepicker.css
+																																																																																																																																																																																																																				    create mode 100644 __MACOSX/Login_v9/vendor/daterangepicker/._daterangepicker.js
+																																																																																																																																																																																																																				     create mode 100644 __MACOSX/Login_v9/vendor/daterangepicker/._moment.js
+																																																																																																																																																																																																																				      create mode 100644 __MACOSX/Login_v9/vendor/daterangepicker/._moment.min.js
+																																																																																																																																																																																																																				       create mode 100644 __MACOSX/Login_v9/vendor/jquery/._jquery-3.2.1.min.js
+																																																																																																																																																																																																																				        create mode 100644 __MACOSX/Login_v9/vendor/perfect-scrollbar/._perfect-scrollbar.css
+																																																																																																																																																																																																																					 create mode 100644 __MACOSX/Login_v9/vendor/perfect-scrollbar/._perfect-scrollbar.min.js
+																																																																																																																																																																																																																					  create mode 100644 __MACOSX/Login_v9/vendor/select2/._select2.css
+																																																																																																																																																																																																																					   create mode 100644 __MACOSX/Login_v9/vendor/select2/._select2.js
+																																																																																																																																																																																																																					    create mode 100644 __MACOSX/Login_v9/vendor/select2/._select2.min.css
+																																																																																																																																																																																																																					     create mode 100644 __MACOSX/Login_v9/vendor/select2/._select2.min.js
+
+																																																																																																																																																																																																																					     cdac@IOE-CDAC-194 MINGW64 ~/clone (master)
+																																																																																																																																																																																																																					     $ git remote add origin
+																																																																																																																																																																																																																					     `jdlfkasdjflkljlkj;lkj;lkj;lkj;lkjkkjdfjfjjfjfjfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
